@@ -12,10 +12,6 @@ A test program to read shapefile.
 
 A test program to save a shapefile.
 
-# simple_split_polygon.cpp
-
-A program to split every single polygon to a single file from a shapefile.
-
 # test.cpp
 
 A test program to split polygon(deprecated. Just for reference).
