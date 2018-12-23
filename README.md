@@ -23,3 +23,7 @@ A test program to split polygon(deprecated. Just for reference).
 # process.cpp
 
 The final program.
+
+# process_point.cpp
+
+To process point to every single polygon file with buffer.
